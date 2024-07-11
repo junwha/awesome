@@ -676,6 +676,7 @@
 - [Suricata](https://github.com/satta/awesome-suricata#readme) - Intrusion detection/prevention system and network security monitoring engine.
 - [Prompt Injection](https://github.com/FonduAI/awesome-prompt-injection#readme) - A type of vulnerability that specifically targets machine learning models.
 - [Detection Engineering](https://github.com/infosecB/awesome-detection-engineering#readme) - Design, build, and operate detective cybersecurity controls.
+- [Sanitizer](https://github.com/junwha0511/awesome-sanitizer#readme) - Dynamic analysis tools that use compiler instrumentation to detect bugs
 
 ## Content Management Systems
 
